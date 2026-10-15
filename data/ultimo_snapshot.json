@@ -91,7 +91,7 @@
  },
  "1236267": {
   "objeto": "ADQUISICIÓN DE TAPAS DE ALCANTARILLADO PARA LA CIUDAD DE RIOBAMBA",
-  "etapa": "Revisión atendida",
+  "etapa": "Orden de compra (catálogo)",
   "sercop": ""
  },
  "1236281": {
@@ -119,6 +119,11 @@
   "etapa": "Publicado en SERCOP",
   "sercop": "LICO-GADMR-2026-015 · Calificación de Participantes"
  },
+ "1239399": {
+  "objeto": "SERVICIO DE MANTENIMIENTO VIAL PARA DIFERENTES CALLES URBANAS Y RURALES DEL CANTÓN RIOBAMBA",
+  "etapa": "Certificación presupuestaria",
+  "sercop": ""
+ },
  "1239927": {
   "objeto": "READECUACIÓN DE LAS INSTALACIONES DEL CENTRO DE INTERPRETACIÓN AMBIENTAL – RICPAMBA",
   "etapa": "Publicado en SERCOP",
@@ -136,7 +141,7 @@
  },
  "1240391": {
   "objeto": "EJECUCIÓN DE OBRAS PARA LA REHABILITACIÓN Y MEJORAMIENTO PAISAJÍSTICO DE PARTERRES DE INGRESO A LA CIUDAD DE RIOBAMBA",
-  "etapa": "Certificación presupuestaria",
+  "etapa": "Con observaciones",
   "sercop": ""
  },
  "1240406": {
@@ -176,7 +181,7 @@
  },
  "1253938": {
   "objeto": "EJECUCIÓN DE ADOQUINADO DE VÍAS EN LA CABECERA PARROQUIAL DE PUNGALÁ",
-  "etapa": "Certificación presupuestaria",
+  "etapa": "Revisión atendida",
   "sercop": ""
  },
  "1254109": {
@@ -207,11 +212,6 @@
  "1265806": {
   "objeto": "EJECUCIÓN DE LA REHABILITACIÓN DE LA INFRAESTRUCTURA VIAL URBANA DEL CANTÓN RIOBAMBA",
   "etapa": "En revisión",
-  "sercop": ""
- },
- "1266385": {
-  "objeto": "SERVICIO DE MANTENIMIENTO VIAL PARA DIFERENTES CALLES URBANAS Y RURALES DEL CANTÓN RIOBAMBA",
-  "etapa": "Certificación presupuestaria",
   "sercop": ""
  }
 }

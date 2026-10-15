@@ -1,0 +1,11 @@
+[1/62] ERROR LICO-GADMR-2026-003: Page.goto: Timeout 45000ms exceeded.
+Call log:
+navigating to "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.
+[2/62] ERROR LICO-GADMR-2026-004: Page.goto: Timeout 45000ms exceeded.
+Call log:
+navigating to "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.
+[3/62] ERROR LICO-GADMR-2026-005: Page.goto: Timeout 45000ms exceeded.
+Call log:
+navigating to "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.
+SERCOP no responde desde este servidor; se conservan los estados anteriores.
+[OK] data/sercop.json: 62 procesos, 3 con error

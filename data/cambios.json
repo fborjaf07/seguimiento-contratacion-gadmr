@@ -1,1 +1,30 @@
-[]
+[
+ {
+  "fecha": "2026-10-15 15:34",
+  "id": "1236267",
+  "objeto": "ADQUISICIÓN DE TAPAS DE ALCANTARILLADO PARA LA CIUDAD DE RIOBAMBA",
+  "antes": "Revisión atendida",
+  "ahora": "Orden de compra (catálogo)"
+ },
+ {
+  "fecha": "2026-10-15 15:34",
+  "id": "1239399",
+  "objeto": "SERVICIO DE MANTENIMIENTO VIAL PARA DIFERENTES CALLES URBANAS Y RURALES DEL CANTÓN RIOBAMBA",
+  "antes": "Nueva solicitud",
+  "ahora": "Certificación presupuestaria"
+ },
+ {
+  "fecha": "2026-10-15 15:34",
+  "id": "1240391",
+  "objeto": "EJECUCIÓN DE OBRAS PARA LA REHABILITACIÓN Y MEJORAMIENTO PAISAJÍSTICO DE PARTERRES DE INGRESO A LA CIUDAD DE RIOBAMBA",
+  "antes": "Certificación presupuestaria",
+  "ahora": "Con observaciones"
+ },
+ {
+  "fecha": "2026-10-15 15:34",
+  "id": "1253938",
+  "objeto": "EJECUCIÓN DE ADOQUINADO DE VÍAS EN LA CABECERA PARROQUIAL DE PUNGALÁ",
+  "antes": "Certificación presupuestaria",
+  "ahora": "Revisión atendida"
+ }
+]
