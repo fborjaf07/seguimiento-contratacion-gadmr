@@ -1,4 +1,4 @@
-name: Actualizar seguimiento de contratación
+name: Actualizar e-DOC y tablero
 
 on:
   schedule:
@@ -46,14 +46,6 @@ jobs:
           set -o pipefail
           python -u scripts/extraer_edoc.py 2>&1 | tee data/registro_edoc.txt
 
-      - name: Extraer SERCOP (fichas de proceso)
-        id: sercop
-        continue-on-error: true
-        timeout-minutes: 15
-        run: |
-          set -o pipefail
-          python -u scripts/extraer_sercop.py 2>&1 | tee data/registro_sercop.txt
-
       - name: Armar datos del tablero
         if: always()
         run: |
@@ -63,17 +55,17 @@ jobs:
       - name: Guardar en el repositorio
         if: always()
         run: |
-          echo "Corrida $(TZ=America/Guayaquil date '+%Y-%m-%d %H:%M') · e-DOC: ${{ steps.edoc.outcome }} · SERCOP: ${{ steps.sercop.outcome }}" > data/ultima_corrida.txt
+          echo "Corrida e-DOC $(TZ=America/Guayaquil date '+%Y-%m-%d %H:%M') · ${{ steps.edoc.outcome }}" > data/ultima_corrida_edoc.txt
           git config user.name  "actualizador-contratacion"
           git config user.email "actions@users.noreply.github.com"
           git add datos_contratacion.json data/ sercop_procesos.json
           if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git commit -m "Actualización $(TZ=America/Guayaquil date '+%Y-%m-%d %H:%M')"
+          git pull --rebase -X theirs || true
           git push
 
       - name: Resumen
         if: always()
         run: |
-          echo "e-DOC: ${{ steps.edoc.outcome }}  ·  SERCOP: ${{ steps.sercop.outcome }}" >> $GITHUB_STEP_SUMMARY
+          echo "e-DOC: ${{ steps.edoc.outcome }}" >> $GITHUB_STEP_SUMMARY
           if [ "${{ steps.edoc.outcome }}" != "success" ]; then echo "::warning::El e-DOC no se pudo leer; el tablero conserva los datos anteriores. Revise los secretos EDOC_USUARIO y EDOC_CONTRASENA."; fi
-          if [ "${{ steps.sercop.outcome }}" != "success" ]; then echo "::warning::SERCOP no se pudo leer; el tablero conserva los estados anteriores."; fi

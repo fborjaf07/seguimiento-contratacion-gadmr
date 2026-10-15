@@ -6,17 +6,37 @@ Página: `https://fborjaf07.github.io/seguimiento-contratacion-gadmr/`
 
 ## Actualización automática
 
-`.github/workflows/actualizar.yml` corre a las **08:00, 14:00 y 19:00 (hora de Ecuador)** y también a mano desde *Actions → Actualizar seguimiento de contratación → Run workflow*.
+Dos flujos de GitHub Actions, ambos también se pueden correr a mano desde la pestaña *Actions*:
 
-1. `scripts/extraer_edoc.py`: inicia sesión en el CAS, busca en *Enviados* las solicitudes de revisión y aprobación y lee el historial completo de cada una → `data/edoc.json`.
-2. `scripts/extraer_sercop.py`: abre la ficha pública de cada proceso listado en `sercop_procesos.json` (sin captcha) y lee el estado → `data/sercop.json`.
-3. `scripts/armar_datos.py`: une todo en `datos_contratacion.json`, que es lo que lee la página. Si una fuente falla, conserva sus últimos datos buenos.
+| Flujo | Dónde corre | Horario (Ecuador) | Qué hace |
+|---|---|---|---|
+| `actualizar.yml` · *Actualizar e-DOC y tablero* | Servidores de GitHub | 08:00, 14:00, 19:00 | `scripts/extraer_edoc.py`: inicia sesión en el CAS, busca en *Enviados* las solicitudes de revisión y aprobación y lee el historial de cada una → `data/edoc.json` |
+| `sercop.yml` · *Actualizar SERCOP* | Equipo del GADMR (runner propio) | 07:50, 13:50, 18:50 | `scripts/extraer_sercop.py`: abre la ficha pública de cada proceso de `sercop_procesos.json` y lee su estado → `data/sercop.json` |
+
+SERCOP no responde a los servidores de GitHub, por eso su lectura corre en un equipo dentro de Ecuador.
+
+Después de cada extracción:
+
+1. `scripts/armar_datos.py`: une todo en `datos_contratacion.json`, que es lo que lee la página. Si una fuente falla, conserva sus últimos datos buenos.
 4. `scripts/cambios.js`: registra en `data/cambios.json` los proyectos que cambiaron de etapa o de estado SERCOP.
 
 ## Configuración (una sola vez)
 
 - **Secretos** (*Settings → Secrets and variables → Actions*): `EDOC_USUARIO` y `EDOC_CONTRASENA`, de la cuenta cuyos *Enviados* se siguen.
 - **GitHub Pages** (*Settings → Pages*): *Deploy from a branch* → `main` → `/ (root)`.
+
+## Runner SERCOP (equipo del GADMR, una sola vez)
+
+En el PC que permanece encendido (el mismo del monitor de trámites), con Python 3.11 y Git instalados:
+
+1. En GitHub: *Settings → Actions → Runners → New self-hosted runner → Windows x64*.
+2. Abra PowerShell como administrador y ejecute los comandos que muestra esa página (crear `C:\actions-runner`, descargar y descomprimir, y `config.cmd --url ... --token ...`).
+3. Durante la configuración:
+   - *Enter any additional labels*: escriba **`sercop`**.
+   - *Would you like to run the runner as service?*: **Y**, con la cuenta de Windows que tiene Python en el PATH.
+4. En *Settings → Actions → Runners* el equipo debe aparecer como **Idle**. Pruebe con *Actions → Actualizar SERCOP → Run workflow*.
+
+Si el equipo está apagado, SERCOP simplemente no se actualiza en esa corrida y el tablero conserva los últimos estados.
 
 ## Agregar un proceso SERCOP publicado
 

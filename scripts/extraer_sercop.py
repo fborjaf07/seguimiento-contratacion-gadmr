@@ -113,7 +113,7 @@ async def main():
     with open(SALIDA, "w", encoding="utf-8") as fh:
         json.dump(salida, fh, ensure_ascii=False, indent=1)
     print(f"[OK] {SALIDA}: {len(procesos)} procesos, {errores} con error")
-    if procesos and errores == len(procesos):
+    if procesos and all(p.get("error") for p in procesos):
         raise SystemExit("Ninguna ficha SERCOP se pudo leer")
 
 if __name__ == "__main__":
