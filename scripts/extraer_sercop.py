@@ -51,7 +51,7 @@ def fecha_iso(s):
     return f"{m.group(3)}-{int(m.group(2)):02d}-{int(m.group(1)):02d}" if m else ""
 
 async def leer(page, url):
-    await page.goto(url, timeout=90000, wait_until="domcontentloaded")
+    await page.goto(url, timeout=45000, wait_until="domcontentloaded")
     await page.wait_for_timeout(2500)
     texto = await page.inner_text("body")
     # algunas fichas presentan los datos en tablas etiqueta|valor: se normaliza a "etiqueta: valor"
@@ -74,7 +74,7 @@ async def main():
         with open(SALIDA, encoding="utf-8") as fh:
             previo = {p.get("url"): p for p in json.load(fh).get("procesos", [])}
     ahora = datetime.now(ECUADOR)
-    procesos, errores = [], 0
+    procesos, errores, seguidos = [], 0, 0
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
         ctx = await browser.new_context(ignore_https_errors=True, locale="es-EC",
@@ -87,14 +87,24 @@ async def main():
                 if not d["estado"]:
                     raise ValueError("la ficha no muestra 'Estado del Proceso'")
                 d.update(url=url, consultado=ahora.strftime("%Y-%m-%d %H:%M"), error=None)
-                print(f"[{i}/{len(lista)}] {d['codigo'] or '?'} → {d['estado']}")
+                print(f"[{i}/{len(lista)}] {d['codigo'] or '?'} → {d['estado']}", flush=True)
+                seguidos = 0
             except Exception as e:
                 errores += 1
                 d = dict(previo.get(url) or {"codigo": item.get("codigo", ""), "estado": "", "objeto": "", "tipo": "", "presupuesto": 0, "fecha_pub": ""})
                 d.update(url=url, error=str(e)[:200])
-                print(f"[{i}/{len(lista)}] ERROR {url}: {e}")
+                print(f"[{i}/{len(lista)}] ERROR {item.get('codigo','')}: {str(e)[:160]}", flush=True)
+                seguidos += 1
             d["codigo"] = d.get("codigo") or item.get("codigo", "")
             procesos.append(d)
+            if seguidos >= 3 and i == seguidos:
+                # las tres primeras fichas fallaron: SERCOP no responde desde este servidor; no tiene sentido seguir
+                print("SERCOP no responde desde este servidor; se conservan los estados anteriores.", flush=True)
+                for resto in lista[i:]:
+                    prev = dict(previo.get(resto["url"]) or {"codigo": resto.get("codigo", "")})
+                    prev.update(url=resto["url"], error="no consultado (SERCOP no respondió)")
+                    procesos.append(prev)
+                break
             await page.wait_for_timeout(800)
         await browser.close()
     salida = {"corte": ahora.strftime("%Y-%m-%d"), "hora": ahora.strftime("%Y-%m-%d %H:%M"),
