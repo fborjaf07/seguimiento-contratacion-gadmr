@@ -1,0 +1,564 @@
+{
+ "corte": "2026-10-15",
+ "fuente": "Consulta SERCOP inicial (Excel del 15-oct-2026)",
+ "procesos": [
+  {
+   "codigo": "LICO-GADMR-2026-003",
+   "tipo": "Licitación de Obras",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 30984.44,
+   "fecha_pub": "2026-06-17",
+   "objeto": "READECUACIÓN DEL CEMENTERIO DE LA CABECERA PARROQUIAL DE LICÁN",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=LyALZ-Hfn69elAgOV2RPWTJg55jshnRn6gqVFY-vFQ0,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-004",
+   "tipo": "Licitación de Obras",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 64003.68,
+   "fecha_pub": "2026-06-19",
+   "objeto": "READECUACION DEL COLISEO DE LA PARROQUIA CUBIJIES",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=fGxy6hKbrEdRDcwpEt07YqHPnb9dC8ByInAq4d1pnVQ,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-005",
+   "tipo": "Licitación de Obras",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 631662.81,
+   "fecha_pub": "2026-07-03",
+   "objeto": "ASFALTADO DE VÍAS PARA LAS COMUNIDADES CACHA, PUCARAQUINCHE - CACHA HUAGSHI",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=1ptzdJfuLjb5lsTeQdw_D9IbPpZOtgFiwXYirkJX-6E,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-006",
+   "tipo": "Licitación de Obras",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 259919.54,
+   "fecha_pub": "2026-07-15",
+   "objeto": "CONSTRUCCIÓN DEL BOULEVARD DE LAS ÁNIMAS ETAPA I",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=SAwNOY6gxaOOKvZH1-h5rnPvZAUhpYDfktKdGirkHxE,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-007",
+   "tipo": "Licitación de Obras",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 79540.09,
+   "fecha_pub": "2026-08-25",
+   "objeto": "MANTENIMIENTO DE LA CUBIERTA Y FACHADA DE LA IGLESIA LA DOLOROSA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=lCSX2wZzlJQlc7DDSrL5LeQQUmaMYvMtMTDt9HaKr4Y,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-008",
+   "tipo": "Licitación de Obras",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 67608.49,
+   "fecha_pub": "2026-08-25",
+   "objeto": "MANTENIMIENTO DE LA CUBIERTA Y FACHADA DE LA IGLESIA SAN FRANCISCO",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=OlUxDF0LkK6zApeITRbcfQYxvxMvMmh69UvQIDGdHhI,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-009",
+   "tipo": "Licitación de Obras",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 239991.04,
+   "fecha_pub": "2026-08-20",
+   "objeto": "CONSTRUCCIÓN DEL CERRAMIENTO EN EL PREDIO LA MATILDE Y ADECENTAMIENTO DE SUS ESPACIOS EXTERIORES",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=nwB6IWpWiY1PFfi67oUJK54P1SDdKe48zOK7DnXzue4,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-010",
+   "tipo": "Licitación de Obras",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 62302.54,
+   "fecha_pub": "2026-09-01",
+   "objeto": "CONSTRUCCIÓN DE BORDILLOS EN LA COMUNIDAD SAN ISIDRO DE PUNÍN",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=_cgR0Y66oIFcle-t4OwWV8Zg9fsFAqek38Uu4LAaWjY,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-011",
+   "tipo": "Licitación de Obras",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 79961.28,
+   "fecha_pub": "2026-09-11",
+   "objeto": "EJECUCIÓN DE LA CONSTRUCCIÓN DE LA CUBIERTA METÁLICA DE LA CANCHA DE LA COMUNIDAD SHILPALA, PARROQUIA CACHA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=T09B9q9BfI3VJgNH1e1OGyoQmY6jriNMPvXR_N41ojU,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-012",
+   "tipo": "Licitación de Obras",
+   "estado": "Por Adjudicar",
+   "presupuesto": 71998.58,
+   "fecha_pub": "2026-09-04",
+   "objeto": "CONSTRUCCIÓN DE BATERIAS SANITARIAS Y VESTIDORES DE LA COMUNIDAD DE SAN JUAN DE PALLO, PARROQUIA PUNIN",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=SzgHMDo9HmeuY8YtBjA9V2tYzfU4aYRxlYJBCJUuLUY,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-013",
+   "tipo": "Licitación de Obras",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 102999.6,
+   "fecha_pub": "2026-09-18",
+   "objeto": "EJECUCIÓN DE LA CONSTRUCCIÓN DE CUBIERTAS PARA LA CANCHA DE USO MÚLTIPLE DE LA COMUNIDAD SAN VICENTE Y EL GRADERÍO DE LA COMUNIDAD CACHIGUAYCO, PARROQUIA PUNÍN.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=AgNpSV_0NfeXU_4EImA8gVUZ_j1LEQAaZapVS3wWo1U,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-014",
+   "tipo": "Licitación de Obras",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 28822.97,
+   "fecha_pub": "2026-09-16",
+   "objeto": "MEJORAMIENTO DE ESPACIOS RECREATIVOS DE COMUNIDADES DE LA PARROQUIA PUNÍN",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=Twy49rtotcS4dEcqnSEnVi19EoVZuELZUBwW3jc0zbI,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-015",
+   "tipo": "Licitación de Obras",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 71987.96,
+   "fecha_pub": "2026-09-21",
+   "objeto": "CONSTRUCCIÓN DE BATERIA SANITARIA EN YARUQUÍES E ILUMINACIÓN EN LOS PARQUES DE (YARUQUÍES Y LA MADRE) DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=DCebiRAAYQXIPOgRZRF4W8_n-Ufk3WuXGCyuUGUfFos,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-016",
+   "tipo": "Licitación de Obras",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 65646.85,
+   "fecha_pub": "2026-09-24",
+   "objeto": "EJECUCCION DEL ADOQUINADO DE PURUHUAYPAMBA DE LA PARROQUIA PUNGALA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=Lwbj0gPfabh_dIKH2y-I11mfUjczu8ZrKaFf7xl7DOo,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-017",
+   "tipo": "Licitación de Obras",
+   "estado": "Suspendido",
+   "presupuesto": 1248714.13,
+   "fecha_pub": "2026-09-21",
+   "objeto": "EJECUCIÓN DE OBRAS DE MEJORAMIENTO DE INFRAESTRUCTURA EN VARIOS SECTORES DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=q8s_074XODQGONIBbpUXXLOENkOFhh_u8LbspW42rwY,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-018",
+   "tipo": "Licitación de Obras",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 86667.17,
+   "fecha_pub": "2026-09-29",
+   "objeto": "READECUACIÓN DE LAS INSTALACIONES DEL CENTRO DE INTERPRETACIÓN AMBIENTAL – RICPAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=8mpBlTs6sWc30Px-UIj6x7scFJ00-7Yzkvn90gRL2gw,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-019",
+   "tipo": "Licitación de Obras",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 77709.88,
+   "fecha_pub": "2026-09-30",
+   "objeto": "EJECUCIÓN DE ADOQUINADO DE VARIAS VÍAS DE LA CABECERA PARROQUIAL DE LICTO",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=gVKTuKbHedEJYZnTWmEBWNZtGXIkIXllkwsknn8-LJQ,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-020",
+   "tipo": "Licitación de Obras",
+   "estado": "Suspendido",
+   "presupuesto": 7511016.22,
+   "fecha_pub": "2026-10-07",
+   "objeto": "CONSTRUCCION DEL COLECTOR NORORIENTAL ALCANTARILLADO PLUVIAL Y PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES, SECTOR NORORIENTAL DEL CANTÓN RIOBAMBA, PROVINCIA DE CHIMBORAZO",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=HN3owup9gVVCRqPZDtHbj1uSgjOTwqyBtRe8vOZwyz0,"
+  },
+  {
+   "codigo": "LICO-GADMR-2026-021",
+   "tipo": "Licitación de Obras",
+   "estado": "Preguntas, Respuestas y Aclaraciones",
+   "presupuesto": 209805.06,
+   "fecha_pub": "2026-10-07",
+   "objeto": "MANTENIMIENTO Y REHABILITACIÓN VIAL DE LAS COMUNIDADES DE LA PARROQUIA CUBIJÍES",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=s42nJAxUj1KsxtjZvXdA6a94mrvoIHEhgSMDkjxMwdE,"
+  },
+  {
+   "codigo": "LICB-GADMR-2026-002",
+   "tipo": "Licitación de Bienes",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 150000,
+   "fecha_pub": "2026-06-05",
+   "objeto": "ADQUISICION, INSTALACION Y PUESTA EN MARCHA DE GENERADORES ELECTRICOS PARA EL GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DEL CANTON RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=ulTXeptn2QBPtuCad4OOx19I8Oev9B-_DAebbOMoY94,"
+  },
+  {
+   "codigo": "LICB-GADMR-2026-003",
+   "tipo": "Licitación de Bienes",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 120000,
+   "fecha_pub": "2026-07-15",
+   "objeto": "ADQUISICIÓN DE OBRAS ARTÍSTICAS Y CULTURALES REPRESENTATIVAS DE LA IDENTIDAD CULTURAL, HISTÓRICA Y PATRIMONIAL DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=A4NFYfOXcRpU5p8xX9GbkYp9T5s8PXOcfDwBjdLM_bA,"
+  },
+  {
+   "codigo": "LICB-GADMR-2026-004",
+   "tipo": "Licitación de Bienes",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 247580.13,
+   "fecha_pub": "2026-09-25",
+   "objeto": "ADQUISICIÓN, INSTALACIÓN Y PUESTA EN MARCHA DE EQUIPOS DE ACONDICIONAMIENTO ACÚSTICO, SISTEMA DE ILUMINACIÓN ESCÉNICA, SISTEMA DE AUDIO, VIDEO, PROYECCIÓN, Y SISTEMA DE TRAMOYA PARA EL CENTRO DE ARTE Y CULTURA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=F5ooCzYkG7fW15gKDnTxuPdQrOHqrXawCUOCP8Q49EQ,"
+  },
+  {
+   "codigo": "LICS-GADMR-2026-002",
+   "tipo": "Licitación de Servicios",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 144812,
+   "fecha_pub": "2026-06-11",
+   "objeto": "PRESTACION DE SERVICIOS ESPECIALIZADOS PARA LA EJECUCION DE TALLERES DEPORTIVOS MULTIDISCIPLINARIOS EN EL CANTON RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=H252xLMh7DmFhF6FNKajmQUWJgKkb1ddO49LUtek75M,"
+  },
+  {
+   "codigo": "LICS-GADMR-2026-003",
+   "tipo": "Licitación de Servicios",
+   "estado": "Desierta",
+   "presupuesto": 148000,
+   "fecha_pub": "2026-06-15",
+   "objeto": "PRESTACIÓN DEL SERVICIO DE TALLERES DE FORMACIÓN EN BELLAS ARTES ORIENTADOS AL FORTALECIMIENTO DE LAS CAPACIDADES ARTÍSTICAS Y CULTURALES DE LA CIUDADANÍA DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=ukSPIBRuFayMNAzb1HbTxi9e8H7TUjHTB6OOJAUokM4,"
+  },
+  {
+   "codigo": "LICS-GADMR-2026-004",
+   "tipo": "Licitación de Servicios",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 18988.2,
+   "fecha_pub": "2026-07-01",
+   "objeto": "Prestación del servicio de mantenimiento preventivo y correctivo y adecuación del elevador de orquesta del Teatro León del GADM Riobamba.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=OJsZiMR8FU_jJiGtLInoTGAyqwhFhKMXogxUo6tyjac,"
+  },
+  {
+   "codigo": "LICS-GADMR-2026-005",
+   "tipo": "Licitación de Servicios",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 216390,
+   "fecha_pub": "2026-07-16",
+   "objeto": "Prestación del servicio de impresión de productos comunicacionales, souvenirs, señalética, materiales POP para el GADM de Riobamba.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=ZIO7GDuvCgIgaTt82hGFkz-PZ1vWbAvrwHHyrRTuFmI,"
+  },
+  {
+   "codigo": "LICS-GADMR-2026-006",
+   "tipo": "Licitación de Servicios",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 197000,
+   "fecha_pub": "2026-08-05",
+   "objeto": "PRESTACIÓN DEL SERVICIO DE ORGANIZACIÓN, PRODUCCIÓN Y PUESTA EN ESCENA DE EVENTOS CULTURALES Y DEPORTIVOS PARA EL FORTALECIMIENTO DE LA IDENTIDAD CULTURAL Y LA DINAMIZACIÓN ECONÓMICA DEL CANTÓN RIOBAMBA 2026",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=Y4_gz1ZFtc1_OLcvVJAOpThk_L-sbkguJJFdl6AuHlY,"
+  },
+  {
+   "codigo": "LICS-GADMR-2026-007",
+   "tipo": "Licitación de Servicios",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 397600,
+   "fecha_pub": "2026-08-14",
+   "objeto": "PRESTACIÓN DE SERVICIOS DE RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DISPOSICIÓN FINAL DE LOS DESECHOS SANITARIOS GENERADOS EN DENTRO DEL CANTÓN RIOBAMBA.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=cFPfGgimEtds07gEJVU99riL4Jk2c9h8wbvDUcjtn-k,"
+  },
+  {
+   "codigo": "LICS-GADMR-2026-008",
+   "tipo": "Licitación de Servicios",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 158000,
+   "fecha_pub": "2026-08-13",
+   "objeto": "Prestación del servicio de planificación, ejecución y evaluación de talleres de capacitación destinados al fortalecimiento de capacidades artísticas, culturales, ciudadanas y deportivas de la población del cantón Riobamba.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=FzCdccsZtbPdBajb4z6gZ1fyASi2Pm5Qm7EGC_hqcsg,"
+  },
+  {
+   "codigo": "LICS-GADMR-2026-009",
+   "tipo": "Licitación de Servicios",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 32000,
+   "fecha_pub": "2026-08-20",
+   "objeto": "Organización, producción y puesta en escena de eventos que fomenten la cultura, turismo y dinamización económica en el cantón Riobamba",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=BYJLDTI_VDqC6oO9Mg91B_LAGYMRDZF-e7Bdf-Xfx5A,"
+  },
+  {
+   "codigo": "LICS-GADMR-2026-010",
+   "tipo": "Licitación de Servicios",
+   "estado": "Por Adjudicar",
+   "presupuesto": 91956,
+   "fecha_pub": "2026-09-16",
+   "objeto": "Prestación de servicios de mantenimiento correctivo de contenedores metálicos de carga lateral de la ciudad de Riobamba",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=iJzGgSxzoBFq-f6RjSrXiYB5Yg4X20I07R_-H2kUWGk,"
+  },
+  {
+   "codigo": "LICSG-GADMR-2026-001",
+   "tipo": "Licitación de Seguros",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 85351.08,
+   "fecha_pub": "2026-07-17",
+   "objeto": "PRESTACIÓN DEL SERVICIO DE PÓLIZA DE SEGUROS PARA BIENES Y PROPIEDADES DEL GADM DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=648uhCueoltIXaR63GvBrBICmPEUt5XXnAWGV7HCJzo,"
+  },
+  {
+   "codigo": "LICSG-GADMR-2026-002",
+   "tipo": "Licitación de Seguros",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 19459.66,
+   "fecha_pub": "2026-08-25",
+   "objeto": "PRESTACION DEL SERVICIO DE LA POLIZA DE FIDELIDAD PUBLICA PARA LOS SERVIDORES CAUCIONADOS MUNICIPALES DEL GADM DE RIOBAMBA TIPO BLANKET",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=lA4hCgmevvprfqYx-rqsPffNaiUKLszcFvgwdyyHyXM,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-008",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 219999.84,
+   "fecha_pub": "2026-06-03",
+   "objeto": "PRESTACIÓN DEL SERVICIO DE OUTSOURCING DE IMPRESIÓN Y FOTOCOPIADO",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=n0en2Cc4YWGDP3RKue_rNJ85nbsagKIVuOTwdDi5LGk,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-009",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 30000,
+   "fecha_pub": "2026-06-24",
+   "objeto": "ADQUISICION DE ESPECIES NATIVAS Y ORNAMENTALES PARA EL ADECENTAMIENTO DE AREAS VERDES DEL CENTRO DE INTERPRETACION AMBIENTAL RICPAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=7xYpQ_33pIwsitZ3q9DOz3EEsT-Wt6KVyUKzp1FfgIk,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-010",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 17000,
+   "fecha_pub": "2026-07-24",
+   "objeto": "Adquisición de papeleras para instalar en diferentes espacios públicos del cantón Riobamba.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=TEBAfFSvTc6DrSwoZc2C6tR8-reltBbtMBfOZ0fLkfY,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-011",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 119991.8,
+   "fecha_pub": "2026-07-09",
+   "objeto": "ADQUISICION DE PRENDAS DE SEGURIDAD NO CATALOGADAS PARA EL PERSONAL DEL GADM DE RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=wFyK1Wxzqyh1s4Poh_gSD94IpMSWWTvs-O0M31jBHDQ,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-012",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Suspendido",
+   "presupuesto": 1365000,
+   "fecha_pub": "2026-07-13",
+   "objeto": "ADQUISICIÓN DE MAQUINARIA PARA EL CANTÓN RIOBAMBA.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=uu28qqF7aiQnudVXNScrDcXUQkU0DWey_DByS6khWJ4,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-013",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 73409,
+   "fecha_pub": "2026-07-13",
+   "objeto": "ADQUISICIÓN DE MEDICINAS E INSUMOS VETERINARIOS",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=OzteLXkCoqOVLvZst0Lnzj63-iPUBZgBbs4LnF6vKWM,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-014",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 30205,
+   "fecha_pub": "2026-07-15",
+   "objeto": "PRESTACION DE SERVICIO DE MECANIZADO EN TORNO, FABRICACIÓN DE PIEZAS METÁLICAS Y SOLDADURAS ESPECIALES PARA EL MANTENIMIENTO, REPARACIÓN Y RECUPERACIÓN DE COMPONENTES MECÁNICOS DE VEHÍCULOS Y MAQUINARIA DEL GADM DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=E_ruQ0AAhpReCio54nBjipNz7s5EgyiR_tDo-XTHcRI,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-015",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 226810.4,
+   "fecha_pub": "2026-07-14",
+   "objeto": "ADQUISICIÓN DE MATERIALES DE CONSTRUCCION, ELECTRICOS, GASFITERIA, CARPINTERIA, PLOMERIA Y HERRAMIENTAS PARA VARIAS DEPENDENCIAS DEL GADM DE RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=xQaOO8pT25zZ2fk1RMs-12tWaw-PKs8pPH1fZNObrE4,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-016",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 60000,
+   "fecha_pub": "2026-07-20",
+   "objeto": "PRESTACIÓN DEL SERVICIO DE MANTENIMIENTO Y REPARACIÓN DE CILINDROS HIDRÁULICOS, ASÍ COMO LA RECONSTRUCCIÓN DE MANGUERAS HIDRÁULICAS DE LOS VEHÍCULOS Y MAQUINARIA DEL GADM DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=U5Fze354izo3i7OhLKh28pFnIcbnFTLe7WYiZCZzB-s,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-018",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 928000,
+   "fecha_pub": "2026-08-05",
+   "objeto": "ADQUISICIÓN DE EQUIPO CAMINERO PARA EL FORTALECIMIENTO OPERATIVO DE LA DIRECCIÓN DE OBRAS PÚBLICAS DEL GADM RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=l0_HpInBFU72wXFZ55desQP-rPEi_KquXWQtUdXKxKM,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-019",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 460256,
+   "fecha_pub": "2026-08-07",
+   "objeto": "ADQUISICIÓN DE CEMENTO PARA EL MEJORAMIENTO VIAL EN DIFERENTES SECTORES URBANOS Y RURALES DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=uKz4B1lmktznGlCs4cT4P8X-d6k1Cp-ocham6w6sZOY,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-020",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Ejecución de Contrato",
+   "presupuesto": 537526,
+   "fecha_pub": "2026-08-14",
+   "objeto": "ADQUISICIÓN DE MATERIALES PÉTREOS, ENTREGADOS EN MINA, PARA EL MANTENIMIENTO VIAL EN DIFERENTES SECTORES RURALES DEL CANTÓN RIOBAMBA.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=b8gTMkB1ar5J9h03iyI4-Y05uRWPM4eipa6z9tp5LQQ,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-021",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Desierta",
+   "presupuesto": 19695,
+   "fecha_pub": "2026-08-19",
+   "objeto": "ADQUISICIÓN DE INSTRUMENTOS MUSICALES Y BIENES ARTÍSTICOS CULTURALES PARA EL FORTALECIMIENTO DE LA BANDA MUNICIPAL SAN PEDRO Y ORQUESTA SINFÓNICA MUNICIPAL DE RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=GEk-HbQv-6kmXeor8GuDv9-DdbyghbVdqsvgQMrR19Q,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-022",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Por Adjudicar",
+   "presupuesto": 252831.84,
+   "fecha_pub": "2026-08-27",
+   "objeto": "ADQUISICIÓN DE REPUESTOS, ACCESORIOS Y MANO DE OBRA ESPECIALIZADA PARA EL MANTENIMIENTO CORRECTIVO DE LOS VEHÍCULOS Y MAQUINARIA QUE CONFORMAN LA FLOTA DEL GADM DEL CANTÓN RIOBAMBA.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=QqhSgTiIbgZI95uJrqRrdpkOFDfiSAL6MvMu6rDu-LU,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-023",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Desierta",
+   "presupuesto": 25995,
+   "fecha_pub": "2026-09-02",
+   "objeto": "Mantenimiento de señalética turística en el cantón Riobamba",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=DsOolqtfWI6qKJEAAjQV1b5L4XZrQQrn6xzPqj1UgKw,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-024",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 43835.86,
+   "fecha_pub": "2026-09-07",
+   "objeto": "ADQUISICIÓN DE ARMAS MENOS LETALES PARA LOS AGENTES DE CONTROL MUNICIPAL",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=mentwqZFcCQM5rUFnrxoFTIPt4Skc2KXL0Ia_tNFr_8,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-025",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Por Adjudicar",
+   "presupuesto": 19395,
+   "fecha_pub": "2026-09-17",
+   "objeto": "ALIMENTOS, MEDICINAS, TRATAMIENTOS, PRODUCTOS DE ASEO, ACCESORIOS PARA CANES Y EQUINOS PARA EL CENTRO LA ALEGRIA DE LOS MIOS",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=8WskB09FHotanwoEXcJggwx52j6PiU6UuD9p0gnK-54,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-026",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Suspendido",
+   "presupuesto": 40890,
+   "fecha_pub": "2026-09-21",
+   "objeto": "ADQUISICIÓN E INSTALACIÓN DE PANTALLA LED EXTERIOR PARA EL FORTALECIMIENTO DE LA PROMOCIÓN TURÍSTICA, DIFUSIÓN DE EVENTOS, COMUNICACIÓN INSTITUCIONAL Y POSICIONAMIENTO DE LA OFERTA CULTURAL, COMERCIAL Y TURÍSTICA DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=beCr6CwdQQgQ7He8P7DiZVP31BBttaNu0IqJAnbUVeo,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-027",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Por Adjudicar",
+   "presupuesto": 37437.7,
+   "fecha_pub": "2026-09-24",
+   "objeto": "ADQUISICIÓN DE REPUESTOS INCLUIDA LA MANO DE OBRA PARA LA REPARACIÓN DE VEHÍCULOS PESADOS Y MAQUINARÍA PERTENECIENTE AL GADMR",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=PIX11pKJsYo6a2ytEcujDHVJInB_JTnhxQw21ruBz_I,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-028",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Entrega de Propuesta",
+   "presupuesto": 85765.83,
+   "fecha_pub": "2026-10-06",
+   "objeto": "ADQUISICIÓN DE REPUESTOS INCLUIDO EL SERVICIO DE MANO DE OBRA ESPECIALIZADA PARA EL MANTENIMIENTO Y REPARACIÓN DE LA MAQUINARIA PERTENECIENTE AL GADM DEL CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=fgTDcZXixay2p2qul3w22UBaaGPR_0OtZUW6bzR_1i8,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-029",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Calificación de Participantes",
+   "presupuesto": 25995,
+   "fecha_pub": "2026-09-29",
+   "objeto": "Mantenimiento de señalética turística en el cantón Riobamba",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=rMLh0oVc267IUvs9F5DPaIky4FjrSsZVWB6Z4hj_yao,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-030",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Entrega de Propuesta",
+   "presupuesto": 116049.42,
+   "fecha_pub": "2026-10-05",
+   "objeto": "Renovación y Repotenciación del Servicio de Internet WIFI Gratuito para los sectores Urbanos y Rurales del cantón Riobamba",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=j6PxJiTtYbJXfuyqxkQ_GE1VHQBmVfblrhUPoHqi2-0,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-031",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Convalidacion de Errores",
+   "presupuesto": 19695,
+   "fecha_pub": "2026-10-01",
+   "objeto": "ADQUISICIÓN DE INSTRUMENTOS MUSICALES Y BIENES ARTÍSTICOS CULTURALES PARA EL FORTALECIMIENTO DE LA BANDA MUNICIPAL SAN PEDRO Y ORQUESTA SINFÓNICA MUNICIPAL DE RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=IVYqCKhmJtXfyfgxAKY0wt4R52tuE8-HRQJkFII2e90,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-032",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Preguntas, Respuestas y Aclaraciones",
+   "presupuesto": 919439.99,
+   "fecha_pub": "2026-10-05",
+   "objeto": "ADQUISICIÓN DE MATERIALES PARA VARIOS SISTEMAS DE AGUA POTABLE Y ALCANTARILLADO DEL CANTÓN RIOBAMBA.",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=EIAFTPBhWsk8a2eIFOibaSuQLp1vArufFr9b7rKTR1Q,"
+  },
+  {
+   "codigo": "SIE-GADMR-2026-033",
+   "tipo": "Subasta Inversa Electrónica",
+   "estado": "Preguntas, Respuestas y Aclaraciones",
+   "presupuesto": 122695.95,
+   "fecha_pub": "2026-10-07",
+   "objeto": "Adquisición de Cámaras de Videovigilancia y Megafonía IP",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=Riv52wqisQH4S9oiahAoOXnIaT5wSmkz1Ktvyc0Swz0,"
+  },
+  {
+   "codigo": "CPC-GADMR-2026-002",
+   "tipo": "Concurso Público de Consultoría",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 92057.35,
+   "fecha_pub": "2026-08-25",
+   "objeto": "PRESTACIÓN DE SERVICIOS ESPECIALIZADOS PARA ELABORAR ESTUDIOS DE PRE FACTIBILIDAD PARA LA IMPLEMENTACIÓN DE ZONAS FRANCAS",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=zeuXLNqUfeMB8-jHmcFxq-Kxo4XomyFce9Y7rE8bdYM,"
+  },
+  {
+   "codigo": "CPC-GADMR-2026-003",
+   "tipo": "Concurso Público de Consultoría",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 70000,
+   "fecha_pub": "2026-08-26",
+   "objeto": "CONSULTORÍA PARA LOS ESTUDIOS Y DISEÑOS DEFINITIVOS PARA LA EJECUCIÓN DE LA CONSTRUCCIÓN DEL CENTRO DE ENTRENAMIENTO EN ALTURA EN LA COMUNIDAD SHOBOL LLINLLÍN PARROQUIA SAN JUAN CANTÓN RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=HSNGcU0h4mEo_Mgdu9SxSItKRrpiQrz6dRRn1WddHow,"
+  },
+  {
+   "codigo": "CPC-GADMR-2026-004",
+   "tipo": "Concurso Público de Consultoría",
+   "estado": "Adjudicado - Registro de Contratos",
+   "presupuesto": 315000,
+   "fecha_pub": "2026-08-27",
+   "objeto": "DENSIFICACIÓN DE LA RED GEODÉSICA Y ORTOFOTO VERDADERA, PARA GADM RIOBAMBA, 2026",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=9iV6rleOFiqzgavOgLfluNOFIpo8a2g5kiXIB8dVLVs,"
+  },
+  {
+   "codigo": "CPC-GADMR-2026-005",
+   "tipo": "Concurso Público de Consultoría",
+   "estado": "Preguntas, Respuestas y Aclaraciones",
+   "presupuesto": 37500,
+   "fecha_pub": "2026-10-12",
+   "objeto": "PRESTACION DEL SERVICIO DE CONSULTORIA PARA ELABORAR LOS ESTUDIOS Y DISENOS DEFINITIVOS PARA LA REMODELACION DE LA PISCINA UBICADA EN LA PARROQUIA YARUQUIES CANTON RIOBAMBA",
+   "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/informacionProcesoContratacion2.cpe?idSoliCompra=onQUZ1zg-JIwncefSaBZDN4e1hMVpmmKVjx7kbF8F2k,"
+  }
+ ]
+}
