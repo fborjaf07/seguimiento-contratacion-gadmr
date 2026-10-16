@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: actualizar
+  group: sercop
   cancel-in-progress: false
 
 jobs:
