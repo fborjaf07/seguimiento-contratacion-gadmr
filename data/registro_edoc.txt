@@ -61,7 +61,7 @@ Login OK
   [54/59] #1254109 8 movimientos | Nuevo
   [55/59] #1254708 19 movimientos | Nuevo
   [56/59] #1256527 12 movimientos | Nuevo
-  [57/59] #1262836 7 movimientos | Nuevo
+  [57/59] #1262836 8 movimientos | Nuevo
   [58/59] #1264834 5 movimientos | Nuevo
   [59/59] #1265806 3 movimientos | Nuevo
-[OK] data/edoc.json: 59 solicitudes, corte 2026-10-19 14:12
+[OK] data/edoc.json: 59 solicitudes, corte 2026-10-19 17:41
