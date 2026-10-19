@@ -1,33 +1,67 @@
 Login CAS...
-Traceback (most recent call last):
-  File "/home/runner/work/seguimiento-contratacion-gadmr/seguimiento-contratacion-gadmr/scripts/extraer_edoc.py", line 149, in <module>
-    asyncio.run(main())
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/asyncio/runners.py", line 190, in run
-    return runner.run(main)
-           ^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/asyncio/runners.py", line 118, in run
-    return self._loop.run_until_complete(task)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
-    return future.result()
-           ^^^^^^^^^^^^^^^
-  File "/home/runner/work/seguimiento-contratacion-gadmr/seguimiento-contratacion-gadmr/scripts/extraer_edoc.py", line 102, in main
-    await login(page)
-  File "/home/runner/work/seguimiento-contratacion-gadmr/seguimiento-contratacion-gadmr/scripts/extraer_edoc.py", line 37, in login
-    await page.goto(f"{CAS_LOGIN}?service={SERVICE}", timeout=60000, wait_until="networkidle")
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/async_api/_generated.py", line 8810, in goto
-    await self._impl_obj.goto(
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 524, in goto
-    return await self._main_frame.goto(**locals_to_params(locals()))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 145, in goto
-    await self._channel.send("goto", locals_to_params(locals()))
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 59, in send
-    return await self._connection.wrap_api_call(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 514, in wrap_api_call
-    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
-playwright._impl._errors.Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://egob.gadmriobamba.gob.ec:8443/cas/login?service=https://egobedoc.gadmriobamba.gob.ec:8081/auth/cas/callback?origin=https%3A%2F%2Fegobedoc.gadmriobamba.gob.ec%3A8081%2F
-Call log:
-navigating to "https://egob.gadmriobamba.gob.ec:8443/cas/login?service=https://egobedoc.gadmriobamba.gob.ec:8081/auth/cas/callback?origin=https%3A%2F%2Fegobedoc.gadmriobamba.gob.ec%3A8081%2F", waiting until "networkidle"
-
+Login OK
+  búsqueda 'APROBACIÓN': 75 filas
+  búsqueda 'APROBACION': 1 filas
+  búsqueda 'Aprobación': 75 filas
+  búsqueda 'aprobación': 75 filas
+59 solicitudes de revisión y aprobación
+  [1/59] #1070852 25 movimientos | Nuevo
+  [2/59] #1125470 25 movimientos | Nuevo
+  [3/59] #1127977 25 movimientos | Nuevo
+  [4/59] #1164006 25 movimientos | Nuevo
+  [5/59] #1171333 25 movimientos | Cerrado
+  [6/59] #1178870 25 movimientos | Nuevo
+  [7/59] #1186533 25 movimientos | Nuevo
+  [8/59] #1188517 25 movimientos | Nuevo
+  [9/59] #1195014 25 movimientos | Nuevo
+  [10/59] #1197175 9 movimientos | Nuevo
+  [11/59] #1200796 25 movimientos | Nuevo
+  [12/59] #1203587 25 movimientos | Nuevo
+  [13/59] #1204828 25 movimientos | Nuevo
+  [14/59] #1205117 25 movimientos | Nuevo
+  [15/59] #1207400 25 movimientos | Nuevo
+  [16/59] #1210907 25 movimientos | Nuevo
+  [17/59] #1210927 5 movimientos | Nuevo
+  [18/59] #1212103 15 movimientos | Nuevo
+  [19/59] #1214338 8 movimientos | Nuevo
+  [20/59] #1216889 25 movimientos | Nuevo
+  [21/59] #1219432 25 movimientos | Nuevo
+  [22/59] #1222560 25 movimientos | Nuevo
+  [23/59] #1223136 25 movimientos | Nuevo
+  [24/59] #1223156 25 movimientos | Nuevo
+  [25/59] #1225915 5 movimientos | Nuevo
+  [26/59] #1225921 4 movimientos | Nuevo
+  [27/59] #1227945 3 movimientos | Nuevo
+  [28/59] #1234063 5 movimientos | Nuevo
+  [29/59] #1235305 25 movimientos | Nuevo
+  [30/59] #1236267 25 movimientos | Nuevo
+  [31/59] #1236281 25 movimientos | Nuevo
+  [32/59] #1237444 25 movimientos | Nuevo
+  [33/59] #1237459 15 movimientos | Nuevo
+  [34/59] #1237987 25 movimientos | Nuevo
+  [35/59] #1238009 25 movimientos | Nuevo
+  [36/59] #1238037 25 movimientos | Nuevo
+  [37/59] #1239399 16 movimientos | Nuevo
+  [38/59] #1239927 25 movimientos | Nuevo
+  [39/59] #1239939 11 movimientos | Nuevo
+  [40/59] #1240170 3 movimientos | Cerrado
+  [41/59] #1240237 5 movimientos | Nuevo
+  [42/59] #1240272 25 movimientos | Nuevo
+  [43/59] #1240391 25 movimientos | Nuevo
+  [44/59] #1240406 25 movimientos | Nuevo
+  [45/59] #1243482 25 movimientos | Nuevo
+  [46/59] #1244024 25 movimientos | Nuevo
+  [47/59] #1250828 17 movimientos | Nuevo
+  [48/59] #1251106 7 movimientos | Nuevo
+  [49/59] #1251248 10 movimientos | Nuevo
+  [50/59] #1252639 5 movimientos | Cerrado
+  [51/59] #1252961 4 movimientos | Nuevo
+  [52/59] #1253665 4 movimientos | Nuevo
+  [53/59] #1253938 22 movimientos | Nuevo
+  [54/59] #1254109 8 movimientos | Nuevo
+  [55/59] #1254708 19 movimientos | Nuevo
+  [56/59] #1256527 12 movimientos | Nuevo
+  [57/59] #1262836 7 movimientos | Nuevo
+  [58/59] #1264834 5 movimientos | Nuevo
+  [59/59] #1265806 3 movimientos | Nuevo
+[OK] data/edoc.json: 59 solicitudes, corte 2026-10-19 14:12
