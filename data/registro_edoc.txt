@@ -1,8 +1,67 @@
 Login CAS...
 Login OK
-  búsqueda 'APROBACIÓN': 0 filas
-  búsqueda 'APROBACION': 0 filas
-  búsqueda 'Aprobación': 0 filas
-  búsqueda 'aprobación': 0 filas
-0 solicitudes de revisión y aprobación
-[OK] data/edoc.json: 0 solicitudes, corte 2026-10-19 21:24
+  búsqueda 'APROBACIÓN': 75 filas
+  búsqueda 'APROBACION': 1 filas
+  búsqueda 'Aprobación': 75 filas
+  búsqueda 'aprobación': 75 filas
+59 solicitudes de revisión y aprobación
+  [1/59] #1070852 25 movimientos | Nuevo
+  [2/59] #1125470 25 movimientos | Nuevo
+  [3/59] #1127977 25 movimientos | Nuevo
+  [4/59] #1164006 25 movimientos | Nuevo
+  [5/59] #1171333 25 movimientos | Cerrado
+  [6/59] #1178870 25 movimientos | Nuevo
+  [7/59] #1186533 25 movimientos | Nuevo
+  [8/59] #1188517 25 movimientos | Nuevo
+  [9/59] #1195014 25 movimientos | Nuevo
+  [10/59] #1197175 9 movimientos | Nuevo
+  [11/59] #1200796 25 movimientos | Nuevo
+  [12/59] #1203587 25 movimientos | Nuevo
+  [13/59] #1204828 25 movimientos | Nuevo
+  [14/59] #1205117 25 movimientos | Nuevo
+  [15/59] #1207400 25 movimientos | Nuevo
+  [16/59] #1210907 25 movimientos | Nuevo
+  [17/59] #1210927 5 movimientos | Nuevo
+  [18/59] #1212103 15 movimientos | Nuevo
+  [19/59] #1214338 8 movimientos | Nuevo
+  [20/59] #1216889 25 movimientos | Nuevo
+  [21/59] #1219432 25 movimientos | Nuevo
+  [22/59] #1222560 25 movimientos | Nuevo
+  [23/59] #1223136 25 movimientos | Nuevo
+  [24/59] #1223156 25 movimientos | Nuevo
+  [25/59] #1225915 5 movimientos | Nuevo
+  [26/59] #1225921 4 movimientos | Nuevo
+  [27/59] #1227945 3 movimientos | Nuevo
+  [28/59] #1234063 5 movimientos | Nuevo
+  [29/59] #1235305 25 movimientos | Nuevo
+  [30/59] #1236267 25 movimientos | Nuevo
+  [31/59] #1236281 25 movimientos | Nuevo
+  [32/59] #1237444 25 movimientos | Nuevo
+  [33/59] #1237459 15 movimientos | Nuevo
+  [34/59] #1237987 25 movimientos | Nuevo
+  [35/59] #1238009 25 movimientos | Nuevo
+  [36/59] #1238037 25 movimientos | Nuevo
+  [37/59] #1239399 17 movimientos | Nuevo
+  [38/59] #1239927 25 movimientos | Nuevo
+  [39/59] #1239939 11 movimientos | Nuevo
+  [40/59] #1240170 3 movimientos | Cerrado
+  [41/59] #1240237 5 movimientos | Nuevo
+  [42/59] #1240272 25 movimientos | Nuevo
+  [43/59] #1240391 25 movimientos | Nuevo
+  [44/59] #1240406 25 movimientos | Nuevo
+  [45/59] #1243482 25 movimientos | Nuevo
+  [46/59] #1244024 25 movimientos | Nuevo
+  [47/59] #1250828 17 movimientos | Nuevo
+  [48/59] #1251106 9 movimientos | Cerrado
+  [49/59] #1251248 10 movimientos | Nuevo
+  [50/59] #1252639 5 movimientos | Cerrado
+  [51/59] #1252961 4 movimientos | Nuevo
+  [52/59] #1253665 4 movimientos | Nuevo
+  [53/59] #1253938 22 movimientos | Nuevo
+  [54/59] #1254109 8 movimientos | Nuevo
+  [55/59] #1254708 19 movimientos | Nuevo
+  [56/59] #1256527 12 movimientos | Nuevo
+  [57/59] #1262836 8 movimientos | Nuevo
+  [58/59] #1264834 5 movimientos | Nuevo
+  [59/59] #1265806 3 movimientos | Nuevo
+[OK] data/edoc.json: 59 solicitudes, corte 2026-10-20 12:53
