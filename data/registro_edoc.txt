@@ -51,17 +51,17 @@ Login OK
   [44/59] #1240406 25 movimientos | Nuevo
   [45/59] #1243482 25 movimientos | Nuevo
   [46/59] #1244024 25 movimientos | Nuevo
-  [47/59] #1250828 20 movimientos | Nuevo
+  [47/59] #1250828 22 movimientos | Nuevo
   [48/59] #1251106 10 movimientos | Cerrado
-  [49/59] #1251248 14 movimientos | Nuevo
+  [49/59] #1251248 16 movimientos | Nuevo
   [50/59] #1252639 6 movimientos | Cerrado
-  [51/59] #1252961 5 movimientos | Nuevo
+  [51/59] #1252961 7 movimientos | Nuevo
   [52/59] #1253665 6 movimientos | Nuevo
   [53/59] #1253938 25 movimientos | Nuevo
   [54/59] #1254109 10 movimientos | Nuevo
   [55/59] #1254708 25 movimientos | Nuevo
   [56/59] #1256527 13 movimientos | Nuevo
-  [57/59] #1262836 13 movimientos | Nuevo
+  [57/59] #1262836 14 movimientos | Nuevo
   [58/59] #1264834 6 movimientos | Nuevo
   [59/59] #1265806 4 movimientos | Nuevo
-[OK] data/edoc.json: 59 solicitudes, corte 2026-10-22 13:06
+[OK] data/edoc.json: 59 solicitudes, corte 2026-10-22 17:00
