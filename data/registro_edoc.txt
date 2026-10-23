@@ -64,4 +64,4 @@ Login OK
   [57/59] #1262836 15 movimientos | Nuevo
   [58/59] #1264834 6 movimientos | Nuevo
   [59/59] #1265806 4 movimientos | Nuevo
-[OK] data/edoc.json: 59 solicitudes, corte 2026-10-23 12:50
+[OK] data/edoc.json: 59 solicitudes, corte 2026-10-23 16:45
