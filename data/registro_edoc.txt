@@ -51,10 +51,12 @@ Login OK
   [44/59] #1240406 25 movimientos | Nuevo
   [45/59] #1243482 25 movimientos | Nuevo
   [46/59] #1244024 25 movimientos | Nuevo
-  [47/59] #1250828 22 movimientos | Nuevo
+  [47/59] #1250828 23 movimientos | Nuevo
   [48/59] #1251106 10 movimientos | Cerrado
   [49/59] #1251248 16 movimientos | Nuevo
   [50/59] #1252639 6 movimientos | Cerrado
   [51/59] #1252961 7 movimientos | Nuevo
   [52/59] #1253665 6 movimientos | Nuevo
   [53/59] #1253938 25 movimientos | Nuevo
+  [54/59] #1254109 11 movimientos | Cerrado
+  [55/59] #1254708 25 movimientos | Nuevo
