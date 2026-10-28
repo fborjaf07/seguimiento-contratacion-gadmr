@@ -53,9 +53,9 @@ Login OK
   [46/59] #1244024 25 movimientos | Nuevo
   [47/59] #1250828 24 movimientos | Nuevo
   [48/59] #1251106 11 movimientos | Cerrado
-  [49/59] #1251248 18 movimientos | Nuevo
+  [49/59] #1251248 19 movimientos | Nuevo
   [50/59] #1252639 7 movimientos | Cerrado
-  [51/59] #1252961 8 movimientos | Nuevo
+  [51/59] #1252961 9 movimientos | Nuevo
   [52/59] #1253665 7 movimientos | Nuevo
   [53/59] #1253938 25 movimientos | Nuevo
   [54/59] #1254109 12 movimientos | Cerrado
@@ -64,4 +64,4 @@ Login OK
   [57/59] #1262836 25 movimientos | Nuevo
   [58/59] #1264834 7 movimientos | Nuevo
   [59/59] #1265806 5 movimientos | Nuevo
-[OK] data/edoc.json: 59 solicitudes, corte 2026-10-27 21:50
+[OK] data/edoc.json: 59 solicitudes, corte 2026-10-28 13:45
