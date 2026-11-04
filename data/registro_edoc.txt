@@ -65,10 +65,10 @@ Login OK
   [58/66] #1264834 7 movimientos | Nuevo
   [59/66] #1265806 5 movimientos | Nuevo
   [60/66] #1278898 2 movimientos | Nuevo
-  [61/66] #1278910 2 movimientos | Nuevo
+  [61/66] #1278910 4 movimientos | Nuevo
   [62/66] #1278929 1 movimientos | Nuevo
-  [63/66] #1278938 2 movimientos | Nuevo
+  [63/66] #1278938 4 movimientos | Nuevo
   [64/66] #1278944 2 movimientos | Nuevo
   [65/66] #1278954 2 movimientos | Nuevo
   [66/66] #1278964 2 movimientos | Nuevo
-[OK] data/edoc.json: 66 solicitudes, corte 2026-11-03 22:39
+[OK] data/edoc.json: 66 solicitudes, corte 2026-11-04 15:23
