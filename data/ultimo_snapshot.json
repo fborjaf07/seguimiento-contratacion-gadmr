@@ -144,11 +144,6 @@
   "etapa": "Con observaciones",
   "sercop": ""
  },
- "1240406": {
-  "objeto": "EJECUCIÓN DE OBRAS DE MEJORAMIENTO DE INFRAESTRUCTURA EN VARIOS SECTORES DEL CANTÓN RIOBAMBA",
-  "etapa": "Publicado en SERCOP",
-  "sercop": "LICO-GADMR-2026-017 · Suspendido"
- },
  "1243482": {
   "objeto": "CONSTRUCCIÓN DEL COLECTOR NORORIENTAL (ALCANTARILLADO PLUVIAL) Y PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES, SECTOR NORORIENTAL DEL CANTÓN RIOBAMBA, PROVINCIA DE CHIMBORAZO",
   "etapa": "Publicado en SERCOP",
@@ -214,33 +209,38 @@
   "etapa": "En revisión",
   "sercop": ""
  },
- "1278893": {
-  "objeto": "L PROYECTO INTERVENCIÓN DEL PARQUE DE BELLAVISTA, BARRIO DE LAS Y LOS ADOLESCENTES FASE II",
-  "etapa": "En revisión",
-  "sercop": ""
- },
- "1278898": {
-  "objeto": "L PROYECTO REHABILITACIÓN DE LA AVENIDA DANIEL LEÓN BORJA Y JUAN LAVALLE",
-  "etapa": "En revisión",
-  "sercop": ""
- },
- "1278929": {
-  "objeto": "L PROYECTO EJECUCIÓN DE OBRAS DE ADOQUINADO EN VARIAS CALLES URBANAS Y RURALES DEL CANTÓN RIOBAMBA",
-  "etapa": "En revisión",
-  "sercop": ""
- },
- "1278938": {
-  "objeto": "L PROYECTO EJECUCIÓN DEL REASFALTADO DE VARIAS VÍAS URBANAS DEL CANTÓN RIOBAMBA",
-  "etapa": "En revisión",
-  "sercop": ""
- },
  "1278944": {
   "objeto": "L PROYECTO REGENERACIÓN URBANA DE LA CALLE ESPAÑA",
   "etapa": "En revisión",
   "sercop": ""
  },
- "1278954": {
-  "objeto": "L PROYECTO CONSTRUCCIÓN DEL BOULEVARD MACAXI–BELLAVISTA, TRAMO AVENIDA JUAN BERNARDO DE LEÓN, CANTÓN RIOBAMBA",
+ "1282042": {
+  "objeto": "INTERVENCIÓN DEL PARQUE DE BELLAVISTA, BARRIO DE LAS Y LOS ADOLESCENTES FASE II",
+  "etapa": "En revisión",
+  "sercop": ""
+ },
+ "1282068": {
+  "objeto": "REHABILITACIÓN DE LA AVENIDA DANIEL LEÓN BORJA Y JUAN LAVALLE",
+  "etapa": "En revisión",
+  "sercop": ""
+ },
+ "1282084": {
+  "objeto": "CONSTRUCCIÓN DEL BOULEVARD MACAXÍ–BELLAVISTA, TRAMO AVENIDA JUAN BERNARDO DE LEÓN, CANTÓN RIOBAMBA",
+  "etapa": "En revisión",
+  "sercop": ""
+ },
+ "1282090": {
+  "objeto": "EJECUCIÓN DE OBRAS DE MEJORAMIENTO DE INFRAESTRUCTURA EN VARIOS SECTORES DEL CANTÓN RIOBAMBA",
+  "etapa": "Publicado en SERCOP",
+  "sercop": "LICO-GADMR-2026-017 · Suspendido"
+ },
+ "1282097": {
+  "objeto": "EJECUCIÓN DE OBRAS DE ADOQUINADO EN VARIAS CALLES URBANAS Y RURALES DEL CANTÓN RIOBAMBA",
+  "etapa": "En revisión",
+  "sercop": ""
+ },
+ "1282121": {
+  "objeto": "EJECUCIÓN DEL REASFALTADO DE VARIAS VÍAS URBANAS DEL CANTÓN RIOBAMBA",
   "etapa": "En revisión",
   "sercop": ""
  }
