@@ -99,11 +99,6 @@
   "etapa": "Orden de compra (catálogo)",
   "sercop": ""
  },
- "1237459": {
-  "objeto": "CONSTRUCCIÓN DEL PARQUE DE LA CIUDADELA LAS ACACIAS – FASE 2",
-  "etapa": "Certificación presupuestaria",
-  "sercop": ""
- },
  "1237987": {
   "objeto": "MANTENIMIENTO Y REHABILITACIÓN VIAL DE LAS COMUNIDADES DE LA PARROQUIA CUBIJÍES",
   "etapa": "Publicado en SERCOP",
@@ -221,12 +216,12 @@
  },
  "1282068": {
   "objeto": "REHABILITACIÓN DE LA AVENIDA DANIEL LEÓN BORJA Y JUAN LAVALLE",
-  "etapa": "En revisión",
+  "etapa": "Certificación presupuestaria",
   "sercop": ""
  },
  "1282084": {
   "objeto": "CONSTRUCCIÓN DEL BOULEVARD MACAXÍ–BELLAVISTA, TRAMO AVENIDA JUAN BERNARDO DE LEÓN, CANTÓN RIOBAMBA",
-  "etapa": "En revisión",
+  "etapa": "Revisión atendida",
   "sercop": ""
  },
  "1282090": {
@@ -236,12 +231,17 @@
  },
  "1282097": {
   "objeto": "EJECUCIÓN DE OBRAS DE ADOQUINADO EN VARIAS CALLES URBANAS Y RURALES DEL CANTÓN RIOBAMBA",
-  "etapa": "En revisión",
+  "etapa": "Revisión atendida",
   "sercop": ""
  },
  "1282121": {
   "objeto": "EJECUCIÓN DEL REASFALTADO DE VARIAS VÍAS URBANAS DEL CANTÓN RIOBAMBA",
   "etapa": "En revisión",
+  "sercop": ""
+ },
+ "1284563": {
+  "objeto": "CONSTRUCCIÓN DEL PARQUE DE LA CIUDADELA LAS ACACIAS FASE 2",
+  "etapa": "Certificación presupuestaria",
   "sercop": ""
  }
 }
