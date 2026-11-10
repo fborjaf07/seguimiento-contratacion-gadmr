@@ -1,9 +1,9 @@
 Login CAS...
 Login OK
-  búsqueda 'APROBACIÓN': 89 filas
+  búsqueda 'APROBACIÓN': 90 filas
   búsqueda 'APROBACION': 1 filas
-  búsqueda 'Aprobación': 89 filas
-  búsqueda 'aprobación': 89 filas
+  búsqueda 'Aprobación': 90 filas
+  búsqueda 'aprobación': 90 filas
 73 solicitudes de revisión y aprobación
   [1/73] #1070852 25 movimientos | Nuevo
   [2/73] #1125470 25 movimientos | Nuevo
@@ -37,7 +37,7 @@ Login OK
   [30/73] #1236267 25 movimientos | Nuevo
   [31/73] #1236281 25 movimientos | Nuevo
   [32/73] #1237444 25 movimientos | Nuevo
-  [33/73] #1237459 19 movimientos | Nuevo
+  [33/73] #1237459 21 movimientos | Nuevo
   [34/73] #1237987 25 movimientos | Nuevo
   [35/73] #1238009 25 movimientos | Nuevo
   [36/73] #1238037 25 movimientos | Nuevo
@@ -72,10 +72,10 @@ Login OK
   [65/73] #1278944 9 movimientos | Cerrado
   [66/73] #1278954 6 movimientos | Nuevo
   [67/73] #1278964 6 movimientos | Nuevo
-  [68/73] #1282042 3 movimientos | Nuevo
-  [69/73] #1282068 3 movimientos | Nuevo
-  [70/73] #1282084 3 movimientos | Nuevo
-  [71/73] #1282090 3 movimientos | Nuevo
-  [72/73] #1282097 3 movimientos | Nuevo
-  [73/73] #1282121 3 movimientos | Nuevo
-[OK] data/edoc.json: 73 solicitudes, corte 2026-11-09 23:59
+  [68/73] #1282042 4 movimientos | Nuevo
+  [69/73] #1282068 4 movimientos | Nuevo
+  [70/73] #1282084 4 movimientos | Nuevo
+  [71/73] #1282090 4 movimientos | Nuevo
+  [72/73] #1282097 4 movimientos | Nuevo
+  [73/73] #1282121 4 movimientos | Nuevo
+[OK] data/edoc.json: 73 solicitudes, corte 2026-11-10 15:24
