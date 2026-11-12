@@ -72,11 +72,11 @@ Login OK
   [65/74] #1278944 9 movimientos | Cerrado
   [66/74] #1278954 6 movimientos | Nuevo
   [67/74] #1278964 6 movimientos | Nuevo
-  [68/74] #1282042 9 movimientos | Nuevo
+  [68/74] #1282042 10 movimientos | Nuevo
   [69/74] #1282068 9 movimientos | Nuevo
-  [70/74] #1282084 8 movimientos | Nuevo
-  [71/74] #1282090 8 movimientos | Nuevo
-  [72/74] #1282097 8 movimientos | Nuevo
+  [70/74] #1282084 9 movimientos | Nuevo
+  [71/74] #1282090 12 movimientos | Nuevo
+  [72/74] #1282097 12 movimientos | Nuevo
   [73/74] #1282121 4 movimientos | Nuevo
   [74/74] #1284563 2 movimientos | Nuevo
-[OK] data/edoc.json: 74 solicitudes, corte 2026-11-11 15:06
+[OK] data/edoc.json: 74 solicitudes, corte 2026-11-11 20:08
