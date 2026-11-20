@@ -221,7 +221,7 @@
  },
  "1282084": {
   "objeto": "CONSTRUCCIÓN DEL BOULEVARD MACAXÍ–BELLAVISTA, TRAMO AVENIDA JUAN BERNARDO DE LEÓN, CANTÓN RIOBAMBA",
-  "etapa": "Certificación presupuestaria",
+  "etapa": "Resolución de inicio",
   "sercop": ""
  },
  "1282090": {
@@ -242,6 +242,11 @@
  "1284563": {
   "objeto": "CONSTRUCCIÓN DEL PARQUE DE LA CIUDADELA LAS ACACIAS FASE 2",
   "etapa": "Certificación presupuestaria",
+  "sercop": ""
+ },
+ "1288931": {
+  "objeto": "ADQUISICION DE MEZCLA ASFALTICA Y MATERIAL ASFALTICO TIPO RC PARA EL MANTENIMIENTO VIAL DEL CANTÓN RIOBAMBA",
+  "etapa": "En revisión",
   "sercop": ""
  }
 }
