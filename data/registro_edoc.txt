@@ -73,11 +73,11 @@ Login OK
   [66/75] #1278954 6 movimientos | Nuevo
   [67/75] #1278964 6 movimientos | Nuevo
   [68/75] #1282042 18 movimientos | Nuevo
-  [69/75] #1282068 21 movimientos | Nuevo
+  [69/75] #1282068 22 movimientos | Nuevo
   [70/75] #1282084 24 movimientos | Nuevo
   [71/75] #1282090 17 movimientos | Nuevo
   [72/75] #1282097 17 movimientos | Nuevo
   [73/75] #1282121 12 movimientos | Nuevo
   [74/75] #1284563 2 movimientos | Nuevo
   [75/75] #1288931 2 movimientos | Nuevo
-[OK] data/edoc.json: 75 solicitudes, corte 2026-11-19 23:42
+[OK] data/edoc.json: 75 solicitudes, corte 2026-11-20 15:59
