@@ -14,25 +14,25 @@ Login OK
   [7/75] #1186533 25 movimientos | Nuevo
   [8/75] #1188517 25 movimientos | Nuevo
   [9/75] #1195014 25 movimientos | Nuevo
-  [10/75] #1197175 12 movimientos | Nuevo
+  [10/75] #1197175 13 movimientos | Nuevo
   [11/75] #1200796 25 movimientos | Nuevo
   [12/75] #1203587 25 movimientos | Nuevo
   [13/75] #1204828 25 movimientos | Nuevo
   [14/75] #1205117 25 movimientos | Nuevo
   [15/75] #1207400 25 movimientos | Nuevo
   [16/75] #1210907 25 movimientos | Nuevo
-  [17/75] #1210927 8 movimientos | Nuevo
-  [18/75] #1212103 22 movimientos | Nuevo
-  [19/75] #1214338 11 movimientos | Nuevo
+  [17/75] #1210927 9 movimientos | Nuevo
+  [18/75] #1212103 25 movimientos | Nuevo
+  [19/75] #1214338 12 movimientos | Nuevo
   [20/75] #1216889 25 movimientos | Nuevo
   [21/75] #1219432 25 movimientos | Nuevo
   [22/75] #1222560 25 movimientos | Nuevo
   [23/75] #1223136 25 movimientos | Nuevo
   [24/75] #1223156 25 movimientos | Nuevo
-  [25/75] #1225915 8 movimientos | Nuevo
-  [26/75] #1225921 7 movimientos | Nuevo
-  [27/75] #1227945 6 movimientos | Nuevo
-  [28/75] #1234063 8 movimientos | Nuevo
+  [25/75] #1225915 9 movimientos | Nuevo
+  [26/75] #1225921 8 movimientos | Nuevo
+  [27/75] #1227945 7 movimientos | Nuevo
+  [28/75] #1234063 9 movimientos | Nuevo
   [29/75] #1235305 25 movimientos | Nuevo
   [30/75] #1236267 25 movimientos | Nuevo
   [31/75] #1236281 25 movimientos | Nuevo
@@ -41,43 +41,43 @@ Login OK
   [34/75] #1237987 25 movimientos | Nuevo
   [35/75] #1238009 25 movimientos | Nuevo
   [36/75] #1238037 25 movimientos | Nuevo
-  [37/75] #1239399 21 movimientos | Nuevo
+  [37/75] #1239399 22 movimientos | Nuevo
   [38/75] #1239927 25 movimientos | Nuevo
-  [39/75] #1239939 14 movimientos | Nuevo
-  [40/75] #1240170 6 movimientos | Cerrado
-  [41/75] #1240237 8 movimientos | Nuevo
+  [39/75] #1239939 15 movimientos | Nuevo
+  [40/75] #1240170 8 movimientos | Cerrado
+  [41/75] #1240237 9 movimientos | Nuevo
   [42/75] #1240272 25 movimientos | Nuevo
   [43/75] #1240391 25 movimientos | Nuevo
   [44/75] #1240406 25 movimientos | Nuevo
   [45/75] #1243482 25 movimientos | Nuevo
   [46/75] #1244024 25 movimientos | Nuevo
   [47/75] #1250828 25 movimientos | Nuevo
-  [48/75] #1251106 12 movimientos | Cerrado
-  [49/75] #1251248 23 movimientos | Nuevo
-  [50/75] #1252639 8 movimientos | Cerrado
-  [51/75] #1252961 13 movimientos | Nuevo
-  [52/75] #1253665 9 movimientos | Nuevo
+  [48/75] #1251106 13 movimientos | Cerrado
+  [49/75] #1251248 25 movimientos | Nuevo
+  [50/75] #1252639 9 movimientos | Cerrado
+  [51/75] #1252961 14 movimientos | Nuevo
+  [52/75] #1253665 10 movimientos | Nuevo
   [53/75] #1253938 25 movimientos | Nuevo
-  [54/75] #1254109 13 movimientos | Cerrado
+  [54/75] #1254109 15 movimientos | Cerrado
   [55/75] #1254708 25 movimientos | Nuevo
-  [56/75] #1256527 16 movimientos | Nuevo
+  [56/75] #1256527 17 movimientos | Nuevo
   [57/75] #1262836 25 movimientos | Nuevo
-  [58/75] #1264834 9 movimientos | Nuevo
-  [59/75] #1265806 7 movimientos | Nuevo
-  [60/75] #1278893 6 movimientos | Nuevo
-  [61/75] #1278898 7 movimientos | Nuevo
-  [62/75] #1278910 6 movimientos | Nuevo
-  [63/75] #1278929 6 movimientos | Cerrado
-  [64/75] #1278938 6 movimientos | Nuevo
-  [65/75] #1278944 9 movimientos | Cerrado
-  [66/75] #1278954 6 movimientos | Nuevo
-  [67/75] #1278964 6 movimientos | Nuevo
-  [68/75] #1282042 18 movimientos | Nuevo
-  [69/75] #1282068 22 movimientos | Nuevo
-  [70/75] #1282084 24 movimientos | Nuevo
-  [71/75] #1282090 17 movimientos | Nuevo
-  [72/75] #1282097 17 movimientos | Nuevo
-  [73/75] #1282121 12 movimientos | Nuevo
-  [74/75] #1284563 2 movimientos | Nuevo
-  [75/75] #1288931 2 movimientos | Nuevo
-[OK] data/edoc.json: 75 solicitudes, corte 2026-11-22 23:26
+  [58/75] #1264834 10 movimientos | Nuevo
+  [59/75] #1265806 8 movimientos | Nuevo
+  [60/75] #1278893 7 movimientos | Nuevo
+  [61/75] #1278898 8 movimientos | Nuevo
+  [62/75] #1278910 7 movimientos | Nuevo
+  [63/75] #1278929 7 movimientos | Cerrado
+  [64/75] #1278938 7 movimientos | Nuevo
+  [65/75] #1278944 10 movimientos | Cerrado
+  [66/75] #1278954 7 movimientos | Nuevo
+  [67/75] #1278964 7 movimientos | Nuevo
+  [68/75] #1282042 19 movimientos | Nuevo
+  [69/75] #1282068 24 movimientos | Nuevo
+  [70/75] #1282084 25 movimientos | Nuevo
+  [71/75] #1282090 18 movimientos | Nuevo
+  [72/75] #1282097 21 movimientos | Nuevo
+  [73/75] #1282121 13 movimientos | Nuevo
+  [74/75] #1284563 5 movimientos | Nuevo
+  [75/75] #1288931 3 movimientos | Nuevo
+[OK] data/edoc.json: 75 solicitudes, corte 2026-11-23 19:42
