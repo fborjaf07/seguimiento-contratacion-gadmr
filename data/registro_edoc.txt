@@ -82,4 +82,4 @@ Login OK
   [75/77] #1288931 5 movimientos | Nuevo
   [76/77] #1291862 1 movimientos | Nuevo
   [77/77] #1291869 1 movimientos | Nuevo
-[OK] data/edoc.json: 77 solicitudes, corte 2026-11-26 20:59
+[OK] data/edoc.json: 77 solicitudes, corte 2026-11-27 00:39
