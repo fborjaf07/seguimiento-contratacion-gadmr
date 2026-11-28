@@ -80,7 +80,7 @@ Login OK
   [73/78] #1282121 25 movimientos | Nuevo
   [74/78] #1284563 13 movimientos | Nuevo
   [75/78] #1288931 5 movimientos | Nuevo
-  [76/78] #1291862 1 movimientos | Nuevo
-  [77/78] #1291869 1 movimientos | Nuevo
-  [78/78] #1292636 1 movimientos | Nuevo
-[OK] data/edoc.json: 78 solicitudes, corte 2026-11-27 16:53
+  [76/78] #1291862 2 movimientos | Nuevo
+  [77/78] #1291869 2 movimientos | Nuevo
+  [78/78] #1292636 2 movimientos | Nuevo
+[OK] data/edoc.json: 78 solicitudes, corte 2026-11-27 20:43
